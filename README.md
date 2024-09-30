@@ -9,5 +9,3 @@
 - [数一真题](https://github.com/youngflysky/KaoYanZhenTi-PDF/tree/main/%E6%95%B0%E4%B8%80%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98): 近三十年的数一真题。
 
   [1987-2022数一真题大合集](https://github.com/youngflysky/KaoYanZhenTi-PDF/tree/main/%E6%95%B0%E4%B8%80%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/00%E6%95%B0%E4%B8%80%E7%9C%9F%E9%A2%98%E5%90%88%E9%9B%86)
-
-希望这些能帮到朋友们。
