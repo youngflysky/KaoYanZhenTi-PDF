@@ -1,4 +1,4 @@
-​	本来是把 Github 仓库当云盘的，看到有人 Star 很开心。
+​把 Github 仓库当云盘。
 
 - [408 真题](https://github.com/youngflysky/KaoYanZhenTi-PDF/tree/main/408%E7%9C%9F%E9%A2%98%E4%B8%8E%E8%A7%A3%E6%9E%90)：这是 2009-2022 年的 408合集
 
